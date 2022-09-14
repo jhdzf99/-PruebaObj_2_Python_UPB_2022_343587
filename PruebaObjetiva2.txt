@@ -1,0 +1,41 @@
+ 
+
+
+        Analisis de los precio de metales del año 2000 al 2022
+
+El analisis se hizo con los precios promedios anuales del cobre, aluminio, zin, niquel, oro y plata deñ periodo del 2000 al 2020
+los datos se obtuvierón de https://www.kaggle.com/datasets/debashish311601/commodity-prices
+
+
+Por los precios promedios anuales de los metales obtenidos en las graficas, se nota que el año 2003 los precios
+empiezan a tener una tendencia al alza hasta el año 2007, esto en caso de los metales industrialez, es decir 
+el aluminio, zinc, cobre y niquel, tuvieron en promedio un incremento del 338.75%, mientras el oro y la plata obtuvieron un 
+incrmento del 232.5%, estos ultimos dos subieron a tasas menores que el resto y tambien presentan un compartamiento diferente
+pues son metales preciosos.
+
+
+Los precios de los metales se pueden considerar volatiles, su precio puede llegar a cambiar en un 41.09% de un año a otro
+
+metal      - desviación estandar   -  precio promedio del 2000-2022    -   cambio del precio promedio vs desviación estandar
+
+COPPER     -    1.08 EUR/lb        -        2.6EUR/lb                  -                   41.66%   
+ALUMINIUM  -    424.22 EUR/MT      -        1975.95EUR/lb              -                   21.47%   
+ZINC       -    812.33 EUR/MT      -        2080.27EUR/lb              -                   39.05%   
+NICKEL     -    6988.7 EUR/MT      -        16013.91EUR/lb             -                   43.64%   
+GOLD       -    518.37 EUR/t oz    -        1048.27EUR/lb              -                   49.45%   
+SILVER     -    8.17 EUR/t oz      -        15.94EUR/lb                -                   51.25%   
+
+Siguiendo la tendencia con los datos obtenidos el precio del cobre puede de un año a otro tener un cambio del ±41.66% 
+el aluminio un cambio de un año a otro en su precio del  ±21.47%
+el zinc un cambio de un año a otro en su precio del  ±39.05%
+el niquel un cambio de un año a otro en su precio del   ±43.64%
+el oro un cambio de un año a otro en su precio del   ±49.45%
+la plata un cambio de un año a otro en su precio del   ±51.25%
+
+el precio del oro se ve afectado en menor proporción que el resto de metales, siguiendo la plata el mismo comportamiento,
+el precio de la plata tiene una correlación directa (positiva) con el precio del oro. Es decir, si conocemos 
+el comportamiento del precio del oro, podremos conocer, en general, el comportamiento del precio de la plata, o 
+viceversa. Esto nos muestra que estos dos metales tienen comportamientos y reacciones similares en el mercado, almenos
+esto se puede deducir del comportamiento de estos metales en estas dos ultimas decadas.
+
+Jorge Miguel Hernandez Fabra  - 13/09/2022 - 19:57:01
